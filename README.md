@@ -7,3 +7,5 @@ of Red, Green and Blue to create a color of choice which is also displayed. Each
 be giving you the code for Red, Green and Blue.
 
 This color code can be used in HTML and in java to make `Color()` class objects. 
+
+**Warning**:The cross button of the frame/window is not working, work is in progress.
